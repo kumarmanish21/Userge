@@ -1,4 +1,3 @@
 #!/bin/bash
-
 . initt
-. run￼Enter
+. run
