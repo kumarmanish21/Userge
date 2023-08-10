@@ -1,5 +1,0 @@
-dnspython
-heroku3
-motor
-pyrogram>=1.4.8
-tgcrypto
